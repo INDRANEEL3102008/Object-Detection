@@ -1,0 +1,119 @@
+.heading
+{
+font-size: 27px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 0px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+.bedroom
+{
+font-size: 20px;
+width: 20%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 20px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.tv
+{
+font-size: 20px;
+width: 20%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 20px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.desk
+{
+font-size: 20px;
+width: 20%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 20px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.bottles
+{
+font-size: 20px;
+width: 20%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 20px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.fb
+{
+font-size: 20px;
+width: 20%;
+margin: 0px;
+box-shadow: 5px 5px 15px #000000;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 20px;
+margin-top: 0px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
